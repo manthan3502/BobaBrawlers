@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fae0640103ce9e9448154d04d69c24bc, type: 3}
+  m_Name: 01_FirstSip
+  m_EditorClassIdentifier: Assembly-CSharp::BobaBrawlers.LevelDefinition
+  title: First Sip
+  opponents: 1
+  knockoutTarget: 2
+  duration: 90
+  enemySpeed: 3.1
+  enemyReactionTime: 1.1
+  enemyAttackInterval: 2.8
+  enemyCharge: 0.55
+  theme: {r: 0.19607843, g: 0.40784314, b: 0.9490196, a: 1}
+  difficulty: EASY
+  obstacleCount: 0

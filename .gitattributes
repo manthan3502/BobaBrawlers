@@ -1,0 +1,23 @@
+* text=auto eol=lf
+*.cs text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.mat text eol=lf
+*.meta text eol=lf
+*.inputactions text eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
+*.ttf binary
+*.wav binary
+*.mp3 binary
+# Preserve Unity's existing serialized formatting without treating empty YAML
+# values or generated trailing blank lines as hand-written documentation defects.
+Assets/** whitespace=-blank-at-eol,-blank-at-eof
+ProjectSettings/** whitespace=-blank-at-eol,-blank-at-eof

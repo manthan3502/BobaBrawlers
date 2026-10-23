@@ -1,0 +1,119 @@
+[
+  {
+    "output": "docs/media/hero-gameplay.webp",
+    "source": "QA/Final/21-character-0-gameplay.png",
+    "operation": "Proportional resize and WebP encoding; no generative edits",
+    "source_sha256": "4378faf8584f2963c7c1e4d136d1b37bc83316c713f3270309f16d4f652be670",
+    "bytes": 99710,
+    "dimensions": [
+      1280,
+      720
+    ]
+  },
+  {
+    "output": "docs/media/main-menu.webp",
+    "source": "QA/Final/01-main-menu.png",
+    "operation": "Proportional resize and WebP encoding; no generative edits",
+    "source_sha256": "9c22dd8fb8e8c8d4952a11ffd4ef1bcdb5a6271e855404a02a2f696aeb0fbc09",
+    "bytes": 76194,
+    "dimensions": [
+      960,
+      540
+    ]
+  },
+  {
+    "output": "docs/media/character-selection.webp",
+    "source": "QA/Final/02-character-selection.png",
+    "operation": "Proportional resize and WebP encoding; no generative edits",
+    "source_sha256": "fbe4132369b1dbf998caa373e512508d665861febbb44d737c59be091ac6e175",
+    "bytes": 81358,
+    "dimensions": [
+      1280,
+      720
+    ]
+  },
+  {
+    "output": "docs/media/charged-dash.webp",
+    "source": "QA/Final/05-charge-action.png",
+    "operation": "Proportional resize and WebP encoding; no generative edits",
+    "source_sha256": "bc61a57a912d91bcd32561905223f2af3fce773299f51b1ec0ee0ab7bfb1c5fb",
+    "bytes": 65374,
+    "dimensions": [
+      960,
+      540
+    ]
+  },
+  {
+    "output": "docs/media/knockout.webp",
+    "source": "QA/Final/08-knockout.png",
+    "operation": "Proportional resize and WebP encoding; no generative edits",
+    "source_sha256": "6fa9c6ee69e15ea2978de187acccdea7d2c3268a50d5bdd7b8c11984df400f40",
+    "bytes": 66068,
+    "dimensions": [
+      960,
+      540
+    ]
+  },
+  {
+    "output": "docs/media/champion.webp",
+    "source": "QA/Final/12-champion.png",
+    "operation": "Proportional resize and WebP encoding; no generative edits",
+    "source_sha256": "f3489c179bb970042780b4ff04a6497183c568ca76fc8abdf09dcdd7e107778a",
+    "bytes": 47324,
+    "dimensions": [
+      960,
+      540
+    ]
+  },
+  {
+    "output": "docs/media/boba-bruiser.webp",
+    "source": "QA/Final/18-character-0-selection.png",
+    "operation": "Exact selected-character card crop, WebP encoding; no retouching",
+    "crop": [
+      160,
+      267,
+      660,
+      843
+    ],
+    "source_sha256": "f6db8411ac168aee8b25ab6745e9beb313172c2dfe5bb80b78d5b42b75834c47",
+    "bytes": 26348,
+    "dimensions": [
+      500,
+      576
+    ]
+  },
+  {
+    "output": "docs/media/mango-mayhem.webp",
+    "source": "QA/Final/18-character-1-selection.png",
+    "operation": "Exact selected-character card crop, WebP encoding; no retouching",
+    "crop": [
+      710,
+      267,
+      1210,
+      843
+    ],
+    "source_sha256": "6a5a7898f90ecb35bf51592f23cedbd6d88b211736876fddc207468bb61627d8",
+    "bytes": 24236,
+    "dimensions": [
+      500,
+      576
+    ]
+  },
+  {
+    "output": "docs/media/matcha-ninja.webp",
+    "source": "QA/Final/18-character-2-selection.png",
+    "operation": "Exact selected-character card crop, WebP encoding; no retouching",
+    "crop": [
+      1260,
+      267,
+      1760,
+      843
+    ],
+    "source_sha256": "2135931499c70716094a6d56e51ddd09c70907faf8bc2bc6e6829c5e9af4945b",
+    "bytes": 26668,
+    "dimensions": [
+      500,
+      576
+    ]
+  }
+]
