@@ -8,7 +8,7 @@ A single-player **Unity 3D arcade brawler for Windows**. Charge a dash, line up 
 
 [How it works](docs/TECHNICAL.md) · [Opening and playing](docs/SETUP.md) · [Verification](docs/TESTING.md) · [Release draft](docs/releases/v1.0.0.md)
 
-> **Publication status:** source is prepared locally; no release is published. The supplied FAHHH recording has unconfirmed redistribution rights and is excluded from Git. The existing Windows package and voiced video remain local pending clearance. See [asset notices](THIRD_PARTY_NOTICES.md).
+> **Publication status:** the rights-filtered Unity source is public in [this GitHub repository](https://github.com/manthan3502/BobaBrawlers). **Windows release: pending.** No game package or voiced video is published. The supplied FAHHH recording has unconfirmed redistribution rights and is excluded from Git; the existing Windows package and voiced video remain local pending clearance. See [asset notices](THIRD_PARTY_NOTICES.md).
 
 ## The brawl
 
@@ -92,7 +92,7 @@ Tools/               Original sound generator and repository audit
 
 ## Open the project or play on Windows
 
-**Developers:** clone the approved source, add its root folder in Unity Hub using **6000.6.6f1**, then open `Assets/BobaBrawlers/Scenes/BobaArena.unity` and enter Play Mode. Unity restores packages and generates its own Library cache. The reaction clip is intentionally absent from a clean Git copy; other assets, music and gameplay remain present. [Setup](docs/SETUP.md) explains the optional licensed audio assignment and building the saved scene.
+**Developers:** clone this repository, add its root folder in Unity Hub using **6000.6.6f1**, then open `Assets/BobaBrawlers/Scenes/BobaArena.unity` and enter Play Mode. Unity restores packages and generates its own Library cache. The reaction clip is intentionally absent from a clean Git copy; other assets, music and gameplay remain present. [Setup](docs/SETUP.md) explains the optional licensed audio assignment and building the saved scene.
 
 **Players:** when a cleared Windows release is published, download its ZIP, extract the entire folder and run `BobaBrawlers.exe`. Keep the adjacent data folders and DLLs together. Unity is not required to play. No download is advertised before a release exists; [installation details and current release hold](docs/releases/v1.0.0.md) are documented.
 

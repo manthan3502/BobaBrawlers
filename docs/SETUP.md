@@ -3,7 +3,7 @@
 ## Unity source
 
 1. Use Unity Hub to install **Unity 6000.6.6f1**, with Windows build support for a Windows player.
-2. After publication has been approved, clone the repository. Add its root folder in Unity Hub; it contains `Assets`, `Packages` and `ProjectSettings`.
+2. Clone `https://github.com/manthan3502/BobaBrawlers.git`. Add its root folder in Unity Hub; it contains `Assets`, `Packages` and `ProjectSettings`.
 3. Let Unity restore the pinned packages and create a new Library cache. No existing machine cache is required in version control.
 4. Open `Assets/BobaBrawlers/Scenes/BobaArena.unity` and enter Play Mode.
 
